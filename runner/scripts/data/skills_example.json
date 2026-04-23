@@ -1,0 +1,22 @@
+[
+    {
+        "skill": "Python Programming",
+        "proficiency": "Advanced",
+        "experience_years": 5,
+        "category": "Programming Languages"
+    },
+    {
+        "skill": "Glue",
+        "proficiency": "Intermediate",
+        "experience_years": 2,
+        "category": "Cloud Services",
+        "brand": "AWS"
+    },
+    {
+        "skill": "Terraform",
+        "proficiency": "Intermediate",
+        "experience_years": 3,
+        "category": "Infrastructure as Code",
+        "brand": "HashiCorp"
+    }
+]

@@ -2,3 +2,6 @@
 /n8n_data
 /postgres_data
 /qdrant_data
+runner/scripts/data/*
+data/n8n/config
+data/*

@@ -1,0 +1,42 @@
+[
+	{
+		"full_name": "John Doe",
+		"headline": "Senior Data Engineer | ML | Cloud | MLOps",
+		"location": "Paris, France",
+		"phone": "+33 6 00 00 00 00",
+		"email": "john.doe@example.com",
+		"linkedin": "linkedin.com/in/johndoe-example",
+		"years_experience": 5,
+		"professional_summary": "A professional summary that highlights key skills, experience, and career goals in a concise manner.",
+		"current_role": "Your current role and company",
+		"current_focus": [
+			"Large-scale ETL and ELT pipelines",
+			"Cloud-native data platforms"
+		],
+		"core_domains": [
+			"Data Engineering",
+			"Machine Learning"
+		],
+		"top_technologies": [
+			"Python",
+			"SQL",
+			"PySpark",
+			"AWS Glue",
+			"GraphQL"
+		],
+		"education_summary": [
+			"Master of Science in Data Science, Public Research University",
+			"Bachelor of Engineering in Industrial Engineering with a Minor in Systems Engineering, Private Technical University"
+		],
+		"certification_summary": [
+			"AWS Certified Solutions Architect - Associate (SAA-C01)",
+			"AWS Certified Cloud Practitioner (CLF-C01)",
+			"Mile2 certifications: CISSO, CIHE, CDRE, CPTE"
+		],
+		"languages": [
+			"Spanish (Native)",
+			"English (Full Professional)",
+			"French (B1)"
+		]
+	}
+]
